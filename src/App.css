@@ -1,0 +1,66 @@
+.main_title{
+    margin-top: 20px;
+}
+.create_section{
+    margin-top: 40px;
+    border: 2px solid tomato;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 
+    rgba(0, 0, 0, 0.09)  2px 0px 2px 1px, 
+    rgba(0, 0, 0, 0.09)  2px 0px 4px 2px, 
+    rgba(0, 0, 0, 0.09)  2px 0px 8px 4px, 
+    rgba(0, 0, 0, 0.09)  2px 0px 16px 8px, 
+    rgba(0, 0, 0, 0.09)  2px 0px 32px 16px;
+}
+.Buttons{
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, 
+    rgba(0, 0, 0, 0.09) 0px 2px 2px, 
+    rgba(0, 0, 0, 0.09) 0px 8px 2px, 
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, 
+    rgba(0, 0, 0, 0.09) 0px 14px 4px;
+}
+.formlabel{
+    color: rgb(2, 2, 87);
+    font-size: 18px;
+    padding-bottom: 7px;
+}
+.inputs{
+    margin-bottom: 30px;
+}
+.add_title{
+    color: brown;
+}
+.text_area{
+    margin-bottom: 20px;
+}
+.view_section{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 30px;
+    padding-bottom: 70px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.delete_buttons{
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, 
+    rgba(0, 0, 0, 0.09) 0px 2px 2px, 
+    rgba(0, 0, 0, 0.09) 0px 8px 2px, 
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, 
+    rgba(0, 0, 0, 0.09) 0px 14px 4px;
+    display: block;
+    margin-top: 10px;
+}
+.todo_colam{
+    width: 80%;
+    border: solid rgb(104, 17, 1) 2px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, 
+    rgba(0, 0, 0, 0.09) 0px 2px 2px, 
+    rgba(0, 0, 0, 0.09) 0px 8px 2px, 
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, 
+    rgba(0, 0, 0, 0.09) 0px 14px 4px;
+    padding: 0px 0px 20px 0px;
+}
